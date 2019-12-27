@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d78535ce-5484-459e-abe1-8e6335838699" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-datasource-autoconfigure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/annotation/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/aop/DynamicDataSourceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/configuration/DynamicDataSourceRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/datasource/DynamicDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/datasource/DynamicDataSourceContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/mapper/DynamicSqlSessionFactoryContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/util/DataSourceConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/annotation/DataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/aop/DynamicDataSourceAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/configuration/DynamicDataSourceRegister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/datasource/DynamicDataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/datasource/DynamicDataSourceContextHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/mapper/DynamicSqlSessionFactoryContextHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/util/DataSourceConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dynamic-datasource-autoconfigure-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Git\repository\github\dynamic-datasource-autoconfigure\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven" />
+        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1VZXBh868Alr6jkwTgFdeDu1c2t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\repository\github\dynamic-datasource-autoconfigure\src\main\java\club\niblet\www" />
+      <recent name="D:\Git\repository\github\dynamic-datasource-autoconfigure\src\main\java" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d78535ce-5484-459e-abe1-8e6335838699" name="Default Changelist" comment="" />
+      <created>1577461456430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577461456430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1577461786949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577461786949" />
+    <state x="808" y="454" key="Github.Dialog.Accounts.Choose" timestamp="1577461890256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="454" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1577461890256" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1577461724532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577461724532" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1577461724531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577461724531" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1577461724531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577461724531" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1577461724532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577461724532" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1577461867201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577461867201" />
+  </component>
+</project>

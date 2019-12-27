@@ -1,0 +1,7 @@
+club\niblet\www\mapper\DynamicSqlSessionFactoryContextHolder.class
+club\niblet\www\datasource\DynamicDataSource.class
+club\niblet\www\annotation\DataSource.class
+club\niblet\www\aop\DynamicDataSourceAspect.class
+club\niblet\www\datasource\DynamicDataSourceContextHolder.class
+club\niblet\www\util\DataSourceConstant.class
+club\niblet\www\configuration\DynamicDataSourceRegister.class
